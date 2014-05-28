@@ -1,13 +1,13 @@
 if (Posts.find().count() === 0) {
 Posts.insert({
-title: 'Introducing Telescope',
-author: 'Sacha Greif',
+title: 'Introducing Notes',
+author: 'Tim Makken',
 url: 'http://sachagreif.com/introducing-telescope/'
 });
 Posts.insert({
-title: 'Meteor',
+title: 'Meteor - the power of Notes',
 author: 'Tom Coleman',
-url: 'http://meteor.com'
+url: 'http://lynu.nl'
 });
 Posts.insert({
 title: 'The Meteor Book',
